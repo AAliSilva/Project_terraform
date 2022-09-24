@@ -16,5 +16,6 @@ tags = {
 Terraform   = "true"
 Environment = "prod"
 Name = "catapimba-corps-vpc"
+CC = "10502"
 }
 }
