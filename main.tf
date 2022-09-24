@@ -15,7 +15,7 @@ one_nat_gateway_per_az = true
 tags = {
 Terraform   = "true"
 Environment = "prod"
-Name = "catapimba-corps-vpc"
+Name = "catapimba-corps"
 CC = "10501"
 }
 }
